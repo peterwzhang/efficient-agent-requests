@@ -8,7 +8,10 @@ To use this workflow:
 
 1. Put the feedback.sh script into the root directory
 2. Add the contents of copilot-instructions.md to your agent instructions
-3. Prompt your AI agent and it should run the script to ask for further instructions after each task
+3. Prompt your AI agent and it will run the script to ask for further instructions after each task
+4. Respond with further instruction (you can also ask it to use other tools)
+
+In order to stop, just tell the agent to stop when it asks you for the next instructions.
 
 ## How this works?
 
