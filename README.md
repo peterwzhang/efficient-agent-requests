@@ -6,7 +6,7 @@ A lightweight workflow that [optimizes how many actions you can get from a reque
 
 To use this workflow:
 
-1. Put the feedback.sh script into the root directory
+1. Put the `feedback.sh` (or `feedback.ps1` for Windows) script into the root directory
 2. Add the contents of copilot-instructions.md to your agent instructions
 3. (Optional) Add additional instructions for code generation to the bottom of the instructions.
 4. Prompt your AI agent and it will run the script to ask for further instructions after each task
